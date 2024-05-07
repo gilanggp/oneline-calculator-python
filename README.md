@@ -1,2 +1,2 @@
 # oneline-calculator-python
-simple one-lin calculator app using python 
+simple one-line calculator app using python 
